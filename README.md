@@ -1,2 +1,2 @@
 # fractals
-fractals ive drawn in python or cpp
+fractals are shapes with non-integer dimension
